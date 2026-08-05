@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi there, I'm Manya Bhatt 👋
 
-<!--
-**manya-bhatt/manya-bhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | AI & Data Science Graduate
 
-Here are some ideas to get you started:
+🎓 B.Tech in Computer Science (AI & Data Science) from PSIT, Kanpur
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about Software Development, Web Technologies, and Artificial Intelligence
+
+🌱 Currently improving my skills in Full Stack Development
+
+📍 Kanpur, Uttar Pradesh, India
+
+---
+
+## 🚀 Tech Stack
+
+**Languages:** Java, JavaScript, Python, SQL
+
+**Frontend:** HTML, CSS, JavaScript, React
+
+**Backend:** Node.js, Express.js, PHP
+
+**Database:** MySQL
+
+**Tools:** Git, GitHub, VS Code, XAMPP
+
+---
+
+## 📂 Featured Projects
+
+### Deepfake Detection using CNN & GAN
+
+* Developed a deep learning-based system for detecting manipulated media.
+* Used CNN and GAN concepts for image analysis and classification.
+
+### College Event Management System
+
+* Built a web-based platform for event registration and management.
+* Technologies: HTML, CSS, JavaScript, PHP, MySQL.
+
+### Cricket Score Calculator
+
+* Developed a responsive cricket scoring application.
+* Technologies: HTML, CSS, JavaScript.
+
+---
+
+## 🎯 Career Objective
+
+Seeking opportunities in Software Development where I can apply my technical skills, contribute to impactful projects, and continue learning modern technologies.
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/manyabhatt9198/
+* Email: manyabhatt01@gmail.com
+
+---
+
+⭐ Always learning, building, and improving.
+
