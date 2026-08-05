@@ -4,25 +4,55 @@
 
 🎓 B.Tech in Computer Science (AI & Data Science) from PSIT, Kanpur
 
-💻 Passionate about Software Development, Web Technologies, and Artificial Intelligence
+💻 Passionate about Software Development, Web Development, and Artificial Intelligence
 
-🌱 Currently improving my skills in Full Stack Development
+🌱 Currently learning and building Full Stack Development projects
 
 📍 Kanpur, Uttar Pradesh, India
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 About Me
 
-**Languages:** Java, JavaScript, Python, SQL
+* Software Developer passionate about building practical applications
+* Interested in Web Development, Artificial Intelligence, and Problem Solving
+* Continuously learning new technologies and improving development skills
+* Open to Internship and Entry-Level Software Development Opportunities
 
-**Frontend:** HTML, CSS, JavaScript, React
+---
 
-**Backend:** Node.js, Express.js, PHP
+## 💻 Technical Skills
 
-**Database:** MySQL
+### Languages
 
-**Tools:** Git, GitHub, VS Code, XAMPP
+* Java
+* Python
+* JavaScript
+* SQL
+
+### Frontend
+
+* HTML
+* CSS
+* JavaScript
+* React
+
+### Backend
+
+* Node.js
+* Express.js
+* PHP
+
+### Database
+
+* MySQL
+
+### Tools & Platforms
+
+* Git
+* GitHub
+* VS Code
+* XAMPP
 
 ---
 
@@ -30,24 +60,21 @@
 
 ### Deepfake Detection using CNN & GAN
 
-* Developed a deep learning-based system for detecting manipulated media.
-* Used CNN and GAN concepts for image analysis and classification.
+Artificial Intelligence project focused on detecting manipulated media using deep learning techniques.
 
 ### College Event Management System
 
-* Built a web-based platform for event registration and management.
-* Technologies: HTML, CSS, JavaScript, PHP, MySQL.
+Web-based application for managing events, registrations, and user interactions.
 
 ### Cricket Score Calculator
 
-* Developed a responsive cricket scoring application.
-* Technologies: HTML, CSS, JavaScript.
+Interactive web application for calculating and managing cricket scores.
 
 ---
 
 ## 🎯 Career Objective
 
-Seeking opportunities in Software Development where I can apply my technical skills, contribute to impactful projects, and continue learning modern technologies.
+Seeking opportunities in Software Development where I can apply my technical skills, contribute to meaningful projects, and continue growing as a developer.
 
 ---
 
@@ -58,5 +85,6 @@ Seeking opportunities in Software Development where I can apply my technical ski
 
 ---
 
-⭐ Always learning, building, and improving.
+⭐ Always Learning | Building | Improving
+
 
